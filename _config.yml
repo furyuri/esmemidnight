@@ -21,11 +21,15 @@
 title: Esme Midnight
 email: esme.midnight.tarot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Esme Midnight - Tarot and Astrology consultation with over 25 years of experience. Intuition, channeling and a strong magical background offer many practical and meaningful solutions along the way for you to make real changes in your life!
+  Tarot and Astrology consultation with over 25 years of experience. Intuition, channeling and a strong magical background offer many practical and meaningful solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://esmemidnight.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+header_pages:
+- about.md
+
+# - TBD: Main Nav
 
 # Build settings
 theme: minima
