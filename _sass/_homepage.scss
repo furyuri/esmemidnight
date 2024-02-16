@@ -1,0 +1,12 @@
+#home-intro-section {
+    display: flex;
+}
+#home-intro-pic img {
+    border-radius: 5px;
+}
+
+@media only screen and (min-width: 1000px) {
+    #home-intro-text {
+        padding: 0 1rem;
+    }
+}
