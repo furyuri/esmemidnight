@@ -44,6 +44,9 @@
 
   .page-link {
     color: $moonwhite;
+    &:hover {
+      color: white;
+    }
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -109,6 +112,7 @@
         padding: 1rem;
         margin-left: 0;
         font-size: 1.15rem;
+        background-color: #282828;
     }     
   }
 }
