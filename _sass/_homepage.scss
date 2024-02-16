@@ -1,5 +1,6 @@
 #home-intro-section {
     display: flex;
+    flex-wrap: wrap;
 }
 #home-intro-pic img {
     border-radius: 5px;
@@ -8,5 +9,9 @@
 @media only screen and (min-width: 1000px) {
     #home-intro-text {
         padding: 0 1rem;
+        flex: 1;
+    }
+    #home-intro-pic {
+        max-width: 300px;
     }
 }
