@@ -123,7 +123,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 4px solid $brand-color;
   padding: 3.5rem 0 5rem;
   background-color: #282828;
   background-image: linear-gradient(to right, #191a1c, #474747);
@@ -216,7 +216,6 @@
 
 .page-heading {
   @include relative-font-size($heading-size-ratio);
-  letter-spacing: -1px;
   line-height: 1;
   margin-bottom: 30px;
 }
