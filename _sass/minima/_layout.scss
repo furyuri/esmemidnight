@@ -3,7 +3,7 @@
  */
 .site-header {
   background-color: rgb(18, 18, 18);
-  background-image: linear-gradient(to right, #0e0e0f, #282828);
+  background-color: #101010;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   z-index: 99999;
@@ -43,7 +43,9 @@
   }
 
   .page-link {
-    color: $moonwhite;
+    color: $brand-color;
+    text-transform: lowercase;
+    font-size: 1.5rem;
     &:hover {
       color: white;
     }
@@ -126,10 +128,13 @@
   border-top: 4px solid $brand-color;
   padding: 3.5rem 0 5rem;
   background-color: #282828;
-  background-image: linear-gradient(to right, #191a1c, #474747);
+  background-image: linear-gradient(to right, #101010, #372d03);
   color: white;  
   li, p {
     color: #dadada;
+  }
+  a {
+    color: $brand-color-2;
   }
 }
 
@@ -147,7 +152,7 @@
     display: flex;
   }
   .svg-icon {
-    fill: #d9c48e;
+    fill: $brand-color-2;
     padding-top: 7px;
   }
 }
