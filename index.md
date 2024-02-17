@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Tarot & Astrology Consultation by Esme Midnight.
+title: Tarot & Astrology Consultation by Esme Midnight
 layout: home
 ---
 <section id="home-intro-section" markdown=1>
