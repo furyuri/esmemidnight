@@ -1,13 +1,11 @@
 ---
 layout: page
-title: All About Esme Midnight
+title: In Development 
 menu_title: About
 permalink: /about/
 redirect_from:
   - /about.html
 ---
 
-## Under Construction
-
-Come back soon.
+Please come back soon.
 
