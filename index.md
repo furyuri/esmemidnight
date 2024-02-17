@@ -9,7 +9,11 @@ layout: home
 <div markdown=1 id="home-intro-pic">
 ![Black and White headshot of tarot & astrology counselor, Esme Midnight.]({{site.url}}/{{site.images_path}}esme_profile_shot.jpg){: #home-profile-pic}
 </div>
-<div id="home-intro-text">
+<div id="home-intro-text" markdown=1>
 Professional tarot reader/magical counseling. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I.
+
+I have over 25 years of experience with tarot, esoteric systems of magic, psychic channeling. These can be done long distance through video apps or in my temple here in SE Portland. My sessions are a space and time out of the ordinary for you and I to call to our guides and ancestors to come work with us with the system of tarot and astrology, witchcraft and magic as a divinatory tool.
+
+My sessions take 1-2 hours and the conversation is private and safe between us. We can cover any topic and formulate the best ways to ask the questions and see what signs and stories come up as solutions. I offer many different practical and magical solutions along the way for you to make real changes in your life.
 </div>
 </section>
