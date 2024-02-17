@@ -4,10 +4,10 @@
 .site-header {
   background-color: rgb(18, 18, 18);
   background-image: linear-gradient(to right, #0e0e0f, #282828);
-  border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   z-index: 99999;
+  border-bottom: 4px solid $brand-color;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -124,7 +124,7 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: 3.5rem 0 2rem;
+  padding: 3.5rem 0 5rem;
   background-color: #282828;
   background-image: linear-gradient(to right, #191a1c, #474747);
   color: white;  
@@ -136,12 +136,20 @@
 .footer-heading {
   @include relative-font-size(2);
   margin-bottom: $spacing-unit / 2;
+  color: #a8a8a8;
 }
 
 .contact-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  a {
+    display: flex;
+  }
+  .svg-icon {
+    fill: #d9c48e;
+    padding-top: 7px;
+  }
 }
 
 .footer-col-wrapper {
@@ -190,6 +198,9 @@
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+  .site-footer {
+    padding: 3.5rem 0;
   }
 }
 
