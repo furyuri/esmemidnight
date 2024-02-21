@@ -1,3 +1,21 @@
+<section id="contact-cta">
+  <div class="wrapper">
+    <h2>Interested in a consultation?</h2>
+    <p>I'm happy to answer any questions and schedule an appointment if you so desire. </p>
+    <form id="contact-form" action="https://formspree.io/f/xdoqgqed" method="POST">
+      <div class="form-element">
+        <label>Email</label>
+        <input type="email" name="email" />
+      </div>
+      <div class="form-element">
+        <label>Message</label>
+        <textarea name="message" rows="4"></textarea>
+      </div>
+      <button id="contact-form-button" class="btn">Submit</button>
+      <p id="contact-form-status"></p>
+    </form>
+  </div>
+</section>
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
@@ -27,4 +45,36 @@
 
 </footer>
 <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+<script>
+  var form = document.getElementById("contact-form");
+  
+  async function handleSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("contact-form-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+          'Accept': 'application/json'
+      }
+    }).then(response => {
+      if (response.ok) {
+        status.innerHTML = "Thanks for your submission!";
+        form.reset()
+      } else {
+        response.json().then(data => {
+          if (Object.hasOwn(data, 'errors')) {
+            status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+          } else {
+            status.innerHTML = "Oops! There was a problem submitting your form"
+          }
+        })
+      }
+    }).catch(error => {
+      status.innerHTML = "Oops! There was a problem submitting your form"
+    });
+  }
+  form.addEventListener("submit", handleSubmit)
+</script>
 <!-- <script src="/scripts/main.js"></script> -->
