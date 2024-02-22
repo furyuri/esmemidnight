@@ -224,7 +224,7 @@
  * Contact CTA
  */
 #contact-cta {
-  background-color: #343434;
+  background-color: $brand-gray;
   padding: 3rem 0 4rem;
   color: lighten($text-gray, 10%);
 
@@ -368,4 +368,13 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+/** 
+* Site Wide 
+*/
+@media only screen and (min-width: 1000px) {
+  .home, .post {
+      padding: 70px 0 55px;
+  }    
 }

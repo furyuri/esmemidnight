@@ -17,3 +17,20 @@ I have over 25 years of experience with tarot, esoteric systems of magic, psychi
 My sessions take 1-2 hours and the conversation is private and safe between us. We can cover any topic and formulate the best ways to ask the questions and see what signs and stories come up as solutions. I offer many different practical and magical solutions along the way for you to make real changes in your life.
 </div>
 </section>
+<section id="home-offerings-section">
+<h2>Offerings</h2>
+<div id="offerings">
+<div class="offering-card">
+<h3>Astrology counsel</h3>
+Based in a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, and more. These can be done at my temple/home in SE Portland or via video call. Sessions last 1-2 hours.
+</div>
+<div class="offering-card">
+<h3>Private Parties <br>or Events</h3>
+Consist of 3-4 hour sessions seeing individuals for short party sessions, paid by the host.
+</div>
+<div class="offering-card">
+<h3>Deep Wisdom Tarot Sessions</h3>
+Offered at my temple/home in SE Portland or via video call. These are conversations and divination with The Tarot. Sessions last 1-2 hours.
+</div>
+</div>
+</section>

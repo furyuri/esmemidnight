@@ -1,0 +1,21 @@
+#bio-intro-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+#bio-intro-pic {
+    width: 100%;
+    img {
+        border-radius: 5px;
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 1000px) {  
+    #bio-intro-text {
+        padding: 0 2rem 0 0;
+        flex: 1;
+    }
+    #bio-intro-pic {
+        max-width: 300px;
+        order: 2;
+    }
+}

@@ -1,5 +1,5 @@
 $heading-size-ratio: 2.25;
-.im-fell english sc-regular, .site-title, .footer-heading, .site-footer a, .page-link, #contact-form label {
+.im-fell english sc-regular, .site-title, .footer-heading, .site-footer a, .page-link, #contact-form label, h2, h3 {
     font-family: "IM Fell English SC", serif;
     font-weight: 400;
     font-style: normal;
@@ -15,4 +15,8 @@ $heading-size-ratio: 2.25;
     font-family: "IM Fell English", serif;
     font-weight: 400;
     font-style: italic;
+}
+
+p em {
+    font-size: 1.2em;
 }
