@@ -1,3 +1,22 @@
+.post.insight {
+    background-color: lighten($brand-color, 23%);
+    padding: 1rem;
+    h1 {
+        margin-bottom: 0;
+    }
+    .post-meta {
+        margin-left: .25em;
+    }
+    .post-header {
+        img {
+            display: none;
+        }
+    }
+    .p-author, .dt-published {
+        font-style: italic;
+        font-size: 1.2rem;
+    }
+}
 .post-preview {
     display: block;
     box-sizing: border-box;
@@ -37,12 +56,25 @@
 }
 
 @media only screen and (min-width: 1000px) {
-    .post-preview {
-        max-width: 48.25%;
-    }
-    .post-list {
-        display: flex;
-        justify-content: space-between;        
-        flex-wrap: wrap;
+    .post.insight {
+        padding: 6rem 4rem;
+        .post-preview {
+            max-width: 48.25%;
+        }
+        .post-list {
+            display: flex;
+            justify-content: space-between;        
+            flex-wrap: wrap;
+        }
+        .post-header {
+            display: flex;
+            img {
+                display: block;
+                width: 64px;
+                margin-right: .5rem;
+                border-radius: 3px;
+                opacity: .8
+            }    
+        }
     }
 }

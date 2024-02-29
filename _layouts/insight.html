@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<article class="post insight h-entry" itemscope itemtype="http://schema.org/BlogPosting" markdown=1>
+
+    <header class="post-header" markdown=1>
+        <div>
+            <img src="\images\esme_profile_shot_small.jpg" alt="Black and White headshot of tarot & astrology counselor, Esme Midnight.">
+        </div>
+        <div>
+          <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+          <p class="post-meta">
+            {%- if page.author -%}
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span> &nbsp; • &nbsp; 
+            {%- endif -%}
+            
+            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              {{ page.date | date: date_format }}
+            </time>
+
+        </p>
+        </div>
+      </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

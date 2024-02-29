@@ -228,17 +228,19 @@
   padding: 3rem 0 4rem;
   color: lighten($text-gray, 10%);
 
+  
+  > .wrapper {
+    > * {
+      text-align: center;
+      margin: 0 auto;
+    }
+  }
+  
   h2 {
     color: $brand-color;
     font-size: 2.25rem;
     letter-spacing: 1px;
-  }
-
-  >.wrapper {
-    >* {
-      text-align: center;
-      margin: 0 auto;
-    }
+    margin-top: 1rem !important;
   }
 
   #contact-form {
@@ -315,7 +317,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: darken($grey-color, 10%);
 }
 
 .post-link {

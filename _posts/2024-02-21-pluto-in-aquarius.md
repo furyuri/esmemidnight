@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: insight
 title:  "Pluto in Aquarius: The World Wide Web"
 categories: blog
 thumbnail: 
