@@ -14,8 +14,6 @@
 }
 
 .post-list {
-    display: flex;
-    justify-content: space-between;
     margin-top: 2rem;
 }
 
@@ -43,6 +41,8 @@
         max-width: 48.25%;
     }
     .post-list {
+        display: flex;
+        justify-content: space-between;        
         flex-wrap: wrap;
     }
 }
