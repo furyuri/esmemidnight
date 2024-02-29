@@ -36,6 +36,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap  
 images_path: images/
 instagram_username: esme_midnight
 # Exclude from processing.
