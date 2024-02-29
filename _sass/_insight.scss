@@ -56,16 +56,16 @@
 }
 
 @media only screen and (min-width: 1000px) {
+    .post-preview {
+        max-width: 48.25%;
+    }
+    .post-list {
+        display: flex;
+        justify-content: space-between;        
+        flex-wrap: wrap;
+    }
     .post.insight {
         padding: 6rem 4rem;
-        .post-preview {
-            max-width: 48.25%;
-        }
-        .post-list {
-            display: flex;
-            justify-content: space-between;        
-            flex-wrap: wrap;
-        }
         .post-header {
             display: flex;
             img {
