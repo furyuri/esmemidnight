@@ -22,7 +22,7 @@ My sessions take 1-2 hours and the conversation is private and safe between us. 
 <div id="offerings">
 <div class="offering-card">
 <h3>Astrology counsel</h3>
-Based in a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, and more. These can be done at my temple/home in SE Portland or via video call. Sessions last 1-2 hours.
+Based in a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, and more. These can be done at my temple / home in SE Portland or via video call. Sessions last 1-2 hours.
 </div>
 <div class="offering-card">
 <h3>Private Parties <br>or Events</h3>
@@ -30,7 +30,7 @@ Consist of 3-4 hour sessions seeing individuals for short party sessions, paid b
 </div>
 <div class="offering-card">
 <h3>Deep Wisdom Tarot Sessions</h3>
-Offered at my temple/home in SE Portland or via video call. These are conversations and divination with The Tarot. Sessions last 1-2 hours.
+Offered at my temple / home in SE Portland or via video call. These are conversations and divination with The Tarot. Sessions last 1-2 hours.
 </div>
 </div>
 </section>
