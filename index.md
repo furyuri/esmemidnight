@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Sacred Tarot & Astrology Consultation
+title: Sacred Tarot Reading & Astrology Consultation
 layout: home
 ---
 <section id="home-intro-section" markdown=1>
@@ -10,7 +10,7 @@ layout: home
 ![Black and White headshot of tarot & astrology counselor, Esme Midnight.]({{site.url}}/{{site.images_path}}esme_profile_shot.jpg){: #home-profile-pic}
 </div>
 <div id="home-intro-text" markdown=1>
-Professional tarot reader &amp; magical counselor. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I.
+My name is Esme Midnight Katzen. I am a professional tarot reader &amp; magical counselor. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I.
 
 I have over 25 years of experience with tarot, esoteric systems of magic, psychic channeling. These can be done long distance through video apps or in my temple here in SE Portland. My sessions are a space and time out of the ordinary for you and I to call to our guides and ancestors to come work with us with the system of tarot and astrology, witchcraft and magic as a divinatory tool.
 
