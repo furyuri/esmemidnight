@@ -19,5 +19,7 @@ She earned a Master's degree in sociology having studied queer theory, sexuality
 Embracing and respecting the practice of many traditions and virtues, she has invited a creative and beautiful life to take root and grow. She offers the life skills she has developed in an intentional way through ***magical counselling, deep wisdom tarot sessions***, using the additional knowledge of ***astrology, Rune magic***, and the ***kabbalah tree of life pathways***.
 
 Most of all, it is her relationship with the ancestors, guides, geniuses, and spirits that has allowed the blessings of others to enter her life.
+
+Visit her today at her Portland, OR based home/temple for a life-changing tarot or astrology reading. You can reach her via [email](mailto:esme.midnight.tarot@gmail.com){:target="_blank"}{:rel="noopener noreferrer"} or by using the [contact form below](#contact-form).
 </div>
 </section>

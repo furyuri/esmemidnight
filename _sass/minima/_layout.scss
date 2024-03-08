@@ -375,6 +375,15 @@
 /** 
 * Site Wide 
 */
+p {
+  a, a:visited, a:hover {
+    color: darken($brand-color-2, 15%);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.1em;
+  }
+}
+
 @media only screen and (min-width: 1000px) {
   .home, .post {
       padding: 70px 0 55px;
