@@ -4,6 +4,7 @@
 
 title: Sacred Tarot Reading & Astrology Consultation
 layout: home
+description: "My name is Esme Midnight Katzen. I am a professional tarot reader & magical counselor. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I."
 ---
 <section id="home-intro-section" markdown=1>
 <div markdown=1 id="home-intro-pic">

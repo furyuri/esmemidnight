@@ -6,6 +6,7 @@ thumbnail:
 thumbnail_alt: 
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-sun-and-the-high-priestess/
+description: "These two cards of the major Arcana of the Tarot are distinct and separate. And this is a meditation on them together. These cards are both channels for liberation, for souls to shine, and for the psyche to reveal itself."
 ---
 <!-- ![test.]({{site.url}}/{{site.images_path}}test.jpg){: .post-intro-img} -->
 
