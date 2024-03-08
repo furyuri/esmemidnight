@@ -2,7 +2,9 @@
 layout: page
 title: The Insight Corner
 menu_title: Insight Corner
-permalink: /writings/
+permalink: /insights/
+redirect_from:
+  - /writings/
 ---
 <p>Insightful articles on Tarot, Astrology and other magical topics. Read on as I relate them all to the past, present and future.</p>
 
