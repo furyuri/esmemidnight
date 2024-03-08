@@ -19,10 +19,10 @@ My sessions take 1-2 hours and the conversation is private and safe between us. 
 </div>
 </section>
 <section id="home-offerings-section">
-<h2>Offerings</h2>
+<h2>Offerings - Tarot & Astrology</h2>
 <div id="offerings">
 <div class="offering-card">
-<h3>Astrology counsel</h3>
+<h3>Astrology Counsel</h3>
 Based in a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, and more. These can be done at my temple / home in SE Portland or via video call. Sessions last 1-2 hours.
 </div>
 <div class="offering-card">
