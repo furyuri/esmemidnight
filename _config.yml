@@ -27,7 +27,7 @@ url: "https://esmemidnight.com" # the base hostname & protocol for your site, e.
 # twitter_username: jekyllrb
 # github_username:  jekyll
 header_pages:
-- writings.md
+- insights.md
 - about.md
 
 # - TBD: Main Nav

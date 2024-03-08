@@ -9,7 +9,7 @@ description: "My name is Esme Midnight, tarot reader in Portland, OR. I have ove
 ---
 <section id="bio-intro-section" markdown=1>
 <div markdown=1 id="bio-intro-pic">
-![Tarot & astrology counselor, Esme Midnight sitting in her residence in Portland, Oregon.]({{site.url}}/{{site.images_path}}esme_profile_shot_2.jpg){: #bio-profile-pic}
+![Tarot & astrology counselor, Esme Midnight sitting in her residence in Portland, Oregon.]({{site.url}}/{{site.images_path}}esme_profile_shot_2.jpg 'Tarot Reader, Esme Midnight Katzen'){: #bio-profile-pic}
 </div>
 <div id="bio-intro-text" markdown=1>
 *Esme* is an intrepid lover of life, living in the magnificent land called the Pacific Northwest in the US.

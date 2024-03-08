@@ -8,7 +8,7 @@ description: "Esme Midnight Katzen, professional tarot reader in Portland, Orego
 ---
 <section id="home-intro-section" markdown=1>
 <div markdown=1 id="home-intro-pic">
-![Black and White headshot of tarot & astrology counselor, Esme Midnight.]({{site.url}}/{{site.images_path}}esme_profile_shot.jpg){: #home-profile-pic}
+![Black and White headshot of tarot & astrology counselor, Esme Midnight.]({{site.url}}/{{site.images_path}}esme_profile_shot.jpg 'Tarot Reader, Esme Midnight Katzen'){: #home-profile-pic}
 </div>
 <div id="home-intro-text" markdown=1>
 ## My name is Esme Midnight Katzen
