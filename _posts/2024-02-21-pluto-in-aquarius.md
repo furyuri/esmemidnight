@@ -5,7 +5,7 @@ categories: blog
 thumbnail: 
 thumbnail_alt: 
 author: 'Esme Midnight Katzen'
-permalink: /insights/pluto-in-aquarius/'
+permalink: /insights/pluto-in-aquarius/
 description: "The zodiacal sign of Aquarius is the sign of society, culture and of the others all connected in what we refer to as the Collective. This collective is found in consciousness, the physical organized world, and in our hearts."
 ---
 <!-- ![test.]({{site.url}}/{{site.images_path}}test.jpg){: .post-intro-img} -->
