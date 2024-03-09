@@ -2,8 +2,8 @@
 layout: insight
 title:  "Pluto in Aquarius: The World Wide Web"
 categories: blog
-thumbnail: 
-thumbnail_alt: 
+thumbnail: post-thumbnail-placeholder.jpg
+thumbnail_alt: ''
 author: 'Esme Midnight Katzen'
 permalink: /insights/pluto-in-aquarius/
 description: "Article by Tarot Reader, Esme Katzen in Portland, Oregon. The zodiacal sign of Aquarius is the sign of society, culture and of the others all connected in what we refer to as the Collective. This collective is found in consciousness, the physical organized world, and in our hearts."

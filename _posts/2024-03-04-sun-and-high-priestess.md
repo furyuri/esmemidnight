@@ -2,8 +2,8 @@
 layout: insight
 title:  "The Sun and The High Priestess"
 categories: blog
-thumbnail: 
-thumbnail_alt: 
+thumbnail: sun_and_priestess_tarot_cards_thumbnail.jpg
+thumbnail_alt: The Sun and High Priestess tarot cards
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-sun-and-the-high-priestess/
 description: "Article by Tarot Reader, Esme Midnight in Portland, Oregon. A meditation on two cards of the major Arcana of the Tarot. These cards are both channels for liberation, for souls to shine, and for the psyche to reveal itself."
@@ -26,7 +26,7 @@ The Sun, the god in the sky, is the creative force needed to renew our inner pur
 ## The Two in Harmony - Helios & Hecate
 <div class="fifty-fifty-img-right" markdown=1>
 <div markdown=1 class="fifty-fifty-img-container">
-![The Sun and Priestess tarot cards together in a sacred bowl.]({{site.url}}/{{site.images_path}}sun_and_priestess_tarot_cards_small-card.jpg)
+![The Sun and Priestess tarot cards together in a sacred bowl. A bronze lion bust positioned beneath them.]({{site.url}}/{{site.images_path}}sun_and_priestess_tarot_cards_small-card.jpg)
 </div>
 <div markdown=1>
 <span style="font-size: .9em !important;">*What do we do with our days? How will we live?* &nbsp;</span>During our days what inner wisdom, guidance, morality and ethics will we adopt? How we relate and travel in the world comes from within. Even when we receive messages from the external world we still have to make inner decisions. The life in our bodies comes from the earth, is the earth, the sun and animating spirit that is the foundation of matter. The universe is fundamentally composed of spirit. So how do we relate with spirit during our lifetimes? The more we reveal the soul to the self the more we are able to be in the flow of everything under the sun. Everything. The good, the bad and the ugly. We can experience life as profound, a precious gift. And perhaps then we can have the ability to more easily move on when the time of our death occurs. Each day is an opportunity to practice being the human we are developing from the inside. Eye contact with strangers, kind words...trying our best.
