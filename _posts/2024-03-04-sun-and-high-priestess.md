@@ -6,9 +6,11 @@ thumbnail:
 thumbnail_alt: 
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-sun-and-the-high-priestess/
-description: "Article by Portland Tarot Reader, Esme Midnight. A meditation on two cards of the major Arcana of the Tarot. These cards are both channels for liberation, for souls to shine, and for the psyche to reveal itself."
+description: "Article by Tarot Reader, Esme Midnight in Portland, Oregon. A meditation on two cards of the major Arcana of the Tarot. These cards are both channels for liberation, for souls to shine, and for the psyche to reveal itself."
 ---
-<!-- ![test.]({{site.url}}/{{site.images_path}}test.jpg){: .post-intro-img} -->
+<div markdown=1 id="post-intro-img">
+![The Sun and Priestess tarot cards together in a sacred bowl.]({{site.url}}/{{site.images_path}}sun_and_priestess_tarot_cards_small.jpg)
+</div>
 
 <em class="post-intro-text">These two cards have been on my mind lately since meeting my true love.</em> Soul mates. We seem to complement each other by seeming so different at first glance and then so familiar and similar. These two cards of the major Arcana of the Tarot are distinct and separate. And this is a meditation on them together. These cards are both channels for liberation, for souls to shine, and for the psyche to reveal itself. Let the journey of grief, joy, love, fear, contentment, etc. be embraced! These different cards show us there are various and distinct moments in life that foster our wholeness. 
 
@@ -22,6 +24,13 @@ The High Priestess is the energy of inner mysteries, initiation, and meditation 
 The Sun, the god in the sky, is the creative force needed to renew our inner pursuits. The nights and days of our lives, the seasons, the cycles of our bodies, aging, and experiencing being here in the kingdom of manifestation is made possible by our sun. The Sun allows us to notice and celebrate our days, seasons and years on earth. It reminds us to be here now because our time on earth is limited. And nothing, no span of life, no type of lifestyle is guaranteed. Everyday is a gift for us, for our ancestors, for the living and for the descendants yet to come. Our fiery hearts, our animated spirits, the way we move in concert, a dance, our heat and our metabolism all come from the fiery life force of The Sun. 
 
 ## The Two in Harmony - Helios & Hecate
-*What do we do with our days? How will we live?* During our days what inner wisdom, guidance, morality and ethics will we adopt? How we relate and travel in the world comes from within. Even when we receive messages from the external world we still have to make inner decisions. The life in our bodies comes from the earth, is the earth, the sun and animating spirit that is the foundation of matter. The universe is fundamentally composed of spirit. So how do we relate with spirit during our lifetimes? The more we reveal the soul to the self the more we are able to be in the flow of everything under the sun. Everything. The good, the bad and the ugly. We can experience life as profound, a precious gift. And perhaps then we can have the ability to more easily move on when the time of our death occurs. Each day is an opportunity to practice being the human we are developing from the inside. Eye contact with strangers, kind words...trying our best. 
+<div class="fifty-fifty-img-right" markdown=1>
+<div markdown=1 class="fifty-fifty-img-container">
+![The Sun and Priestess tarot cards together in a sacred bowl.]({{site.url}}/{{site.images_path}}sun_and_priestess_tarot_cards_small-card.jpg)
+</div>
+<div markdown=1>
+<span style="font-size: .9em !important;">*What do we do with our days? How will we live?* &nbsp;</span>During our days what inner wisdom, guidance, morality and ethics will we adopt? How we relate and travel in the world comes from within. Even when we receive messages from the external world we still have to make inner decisions. The life in our bodies comes from the earth, is the earth, the sun and animating spirit that is the foundation of matter. The universe is fundamentally composed of spirit. So how do we relate with spirit during our lifetimes? The more we reveal the soul to the self the more we are able to be in the flow of everything under the sun. Everything. The good, the bad and the ugly. We can experience life as profound, a precious gift. And perhaps then we can have the ability to more easily move on when the time of our death occurs. Each day is an opportunity to practice being the human we are developing from the inside. Eye contact with strangers, kind words...trying our best.
+</div>
+</div>
 
 These are the Days and Nights of our lives. We are in this together. There is no separation, just the illusion of it. Both The Sun and The High Priestess can form a partnership of profound harmony and peace. ***Together there is balance for the hunger of the soul's expression.***

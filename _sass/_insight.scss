@@ -60,6 +60,26 @@
     line-height: 0.95;
 }
 
+#post-intro-img {
+    position: relative;
+    margin-bottom: 45px;
+    img {
+        border-radius: 5px;
+        width: 100%;
+    }
+    &::after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: $brand-color-2;
+        opacity: .15;
+    }
+}
+
 @media only screen and (min-width: 1000px) {
     .post-preview {
         max-width: 48.25%;
