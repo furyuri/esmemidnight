@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Sacred Tarot Reading & Astrology Consultation
+title: Sacred Tarot & Astrology Consultation
 layout: home
 description: "Esme Midnight Katzen, professional tarot reader in Portland, Oregon. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I."
 ---
