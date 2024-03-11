@@ -6,7 +6,7 @@ permalink: /insights/
 redirect_from:
   - /writings/
 ---
-<p>Insightful articles on Tarot, Astrology and other magical topics. Read on as I relate them all to the past, present and future.</p>
+<p>Insightful musings and articles on Tarot, Astrology and other magical topics. Read on as I relate them all to the past, present and future.</p>
 
 {%- if site.posts.size > 0 -%}
 
