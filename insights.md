@@ -2,6 +2,7 @@
 layout: page
 title: The Insight Corner
 menu_title: Insight Corner
+description: 'Insightful musings and articles on Tarot, Astrology and other magical topics.'
 permalink: /insights/
 redirect_from:
   - /writings/
