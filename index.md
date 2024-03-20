@@ -6,7 +6,7 @@ title: Sacred Tarot & Astrology Consultation
 layout: home
 description: "Esme Midnight Katzen, professional tarot reader in Portland, Oregon. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I."
 ---
-<section id="home-intro-section" markdown=1>
+<section id="home-intro-section" class="wrapper" markdown=1>
 <div markdown=1 id="home-intro-pic">
 ![Black and White headshot of tarot & astrology counselor, Esme Midnight.]({{site.url}}/{{site.images_path}}esme_profile_shot.jpg 'Tarot Reader, Esme Midnight Katzen'){: #home-profile-pic}
 </div>
@@ -25,7 +25,7 @@ You can reach me via [email](mailto:esme.midnight.tarot@gmail.com){:target="_bla
 </section>
 <section id="home-offerings-section">
 <h2>Offerings - Tarot & Astrology</h2>
-<div id="offerings">
+<div id="offerings" class="wrapper">
 <div class="offering-card">
 <h3>Astrology Counsel</h3>
 Based in a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, and more. These can be done at my temple / home in SE Portland or via video call. Sessions last 1-2 hours.
