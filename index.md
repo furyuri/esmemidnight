@@ -24,7 +24,7 @@ You can reach me via [email](mailto:esme.midnight.tarot@gmail.com){:target="_bla
 </div>
 </section>
 <section id="home-offerings-section">
-<h2>Offerings - Tarot & Astrology</h2>
+<h2 class="wrapper">Offerings - Tarot & Astrology</h2>
 <div id="offerings" class="wrapper">
 <div class="offering-card">
 <h3>Astrology Counsel</h3>
