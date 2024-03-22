@@ -414,6 +414,15 @@ p {
 .hidden {
   display:none;
 }
+#header_rune_logo {
+  width: 25px;
+  position: relative;
+  top: -4px;
+  margin-right: 14px;
+  border: 3.5px solid darken($brand-color-2, 20%);
+  border-radius: 8px;
+  padding: 7px;
+}
 @media only screen and (min-width: 1000px) {
   .home, .post {
       padding: 70px 0 55px;
