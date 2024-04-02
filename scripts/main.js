@@ -21,3 +21,8 @@ $('#home-offerings-section').each(function(){
     $('#offerings-link').attr('href', '#home-offerings-section')
 });
 // Rest added via CSS: 'scroll-behavior: smooth'
+
+// Turn B&W Insight Intro Img to Color
+$('#post-intro-img').click(function(){
+    $(this).find('img').css('filter', 'none');
+})
