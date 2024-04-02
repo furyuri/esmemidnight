@@ -6,7 +6,7 @@ thumbnail: princess_cards_thumbnail.jpg
 thumbnail_alt: The four Princess tarot cards laying on a table beneath a sacred coin.
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-princess-tarot-cards/
-description: "Article by Tarot Reader, Esme Midnight in Portland, Oregon. A meditation on..."
+description: "Article by Tarot Reader, Esme Midnight in Portland, Oregon. A meditation on the Princess (Page) cards and the lessons they can teach us."
 ---
 <div markdown=1 id="post-intro-img">
 ![The four Princess tarot cards laying on a table beneath a sacred coin. ]({{site.url}}/{{site.images_path}}princess_cards_small.jpg)
