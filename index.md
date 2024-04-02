@@ -12,7 +12,7 @@ description: "Esme Midnight Katzen, professional tarot reader in Portland, Orego
 </div>
 <div id="home-intro-text" markdown=1>
 ## My name is Esme Midnight Katzen
-I am a professional tarot reader &amp; magical counselor located in the beautiful Pacific Northwest. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I.
+I am a professional tarot reader &amp; magical counselor located in the beautiful Pacific Northwest. I currently reside in Southeast Portland, Oregon. Lover of hermetic arts, magic and astrology By the grace of the ancestors, there go I.
 
 ***I have over 25 years of experience with tarot, esoteric systems of magic, psychic channeling.*** These can be done long distance through video apps or ***in my temple here in SE Portland, OR***. My sessions are a space and time out of the ordinary for you and I to call to our guides and ancestors to come work with us with the system of tarot and astrology, witchcraft and magic as a divinatory tool.
 
