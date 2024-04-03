@@ -32,7 +32,7 @@ Based in a western Hellenistic tradition. Natal chart readings, progressions, pr
 </div>
 <div class="offering-card">
 <h3>Private Parties <br>or Events</h3>
-Paid for by the host, I see multiple individuals for tarot or astrology consultation during a 3-4 hour session. 
+Paid for by the host, several attendees receive an individual session of tarot or astrology consultation during a 3-4 hour party or event period. 
 </div>
 <div class="offering-card">
 <h3>Deep Wisdom Tarot Sessions</h3>
