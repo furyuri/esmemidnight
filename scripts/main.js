@@ -27,3 +27,10 @@ $('#post-intro-img').click(function(){
     $(this).find('img').css('filter', 'none');
     $(this).css('cursor', 'default');
 })
+
+// Make first preview-post color.
+$('.post-preview:first-of-type').addClass('first-post-preview');
+// Remove highlight after mouse interaction.
+$('.post-preview').one('mouseout mouseover', function(){
+    $('.post-preview').removeClass('first-post-preview');
+});
