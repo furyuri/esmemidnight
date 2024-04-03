@@ -235,7 +235,7 @@
  */
 #contact-cta {
   background-color: $brand-gray;
-  padding: 3rem 0 4rem;
+  padding: 3rem 0 5rem;
   color: lighten($text-gray, 10%);
 
   
@@ -436,7 +436,7 @@ p {
   padding: 5px;
 }
 @media only screen and (min-width: 1000px) {
-  .home, .post {
+  .post {
       padding: 70px 0 55px;
   }    
 }

@@ -1,3 +1,7 @@
+#homepage {
+    padding-bottom: 0;
+}
+
 #home-intro-section {
     display: flex;
     flex-wrap: wrap;
@@ -12,10 +16,28 @@
 
 /** Offerings **/ 
 #home-offerings-section {
-    background-color: darken($brand-gray, 10%);
+    position: relative;
+    background-image: url(/images/offerings_bg_mobile.jpg); 
+    background-attachment: fixed;
+    &::before {
+        content: '';
+        display: block;
+        background-color: darken($brand-gray, 10%);
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        opacity: .6;
+        z-index: 1;
+    }
+    @media only screen and (min-width: 1200px) {
+        background-image: url(/images/offerings_bg_desktop.jpg); 
+    }
     margin-top: 4rem;
     padding: 7rem 0 6rem;
     h2 {
+        z-index: 100;
+        position: relative;
         text-align: center;
         color: $brand-color;
         font-size: 2.5rem;     
@@ -25,6 +47,8 @@
     }
 }
 #offerings {
+    position: relative;
+    z-index: 100;
     padding: 1rem;
     @media only screen and (min-width: 600px) {
         max-width: 80%;
