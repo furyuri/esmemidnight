@@ -5,7 +5,7 @@ menu_title: About
 permalink: /about/
 redirect_from:
   - /about.html
-description: "My name is Esme Midnight, tarot reader in Portland, OR. I have over 25 years of experience with tarot, esoteric systems of magic, psychic channeling. These can be done long distance through video apps or in my temple."
+description: "My name is Esme Midnight, tarot reader in Portland, OR. I have over 25 years of experience with tarot, esoteric systems of magic, and psychic channeling. These sessions can be done long distance through video apps or in my temple."
 ---
 <section id="bio-intro-section" markdown=1>
 <div markdown=1 id="bio-intro-pic">
