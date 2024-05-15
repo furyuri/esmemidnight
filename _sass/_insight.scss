@@ -3,6 +3,7 @@
     padding: 1rem;
     h1 {
         margin-bottom: 0;
+        font-size: 40px;
     }
     .post-meta {
         margin-left: .25em;
@@ -136,6 +137,9 @@
         padding: 6rem 4rem;
         .post-header {
             display: flex;
+            > div:first-of-type {
+                min-width: 72px !important;
+            }            
             img {
                 display: block;
                 width: 64px;
