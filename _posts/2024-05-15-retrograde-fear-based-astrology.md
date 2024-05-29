@@ -3,13 +3,13 @@ layout: insight
 title:  "Retrogrades, Pop-Culture & Fear-Based Astrology"
 categories: blog
 thumbnail: retrograde_fear_thumbnail.jpg
-thumbnail_alt: 'A magical arrangement of acorns and honeycomb.'
+thumbnail_alt: 'A magical arrangement of acorns and honeycomb representing the collective and how we can overcome retrograde fear.'
 author: 'Esme Midnight Katzen'
 permalink: /insights/retrograde-fear-based-astrology/
 description: "Fear-Based Astrology in Popular Culture Featuring Retrogrades. Article by Tarot Reader, Esme Katzen in Portland, Oregon."
 ---
 <div markdown=1 id="post-intro-img">
-![A magical arrangement of acorns and honeycomb.]({{site.url}}/{{site.images_path}}retrograde_fear_small.jpg){: .post-intro-img}
+![A magical arrangement of acorns and honeycomb representing the collective and how we can overcome retrograde fear.]({{site.url}}/{{site.images_path}}retrograde_fear_small.jpg){: .post-intro-img}
 </div>
 
 <em class="post-intro-text">Fear sells</em> and we live in a culture that is addicted and trained to be addicted to fear narratives over any other kind. Social media (and news) companies often push stories that have emotional morality to them. Language such as "this disgusts me, I am outraged", or "this is offensive" get targeted and pushed to the top of circulation. It is no wonder that astrology in popular culture has latched on to this trend.
@@ -29,7 +29,7 @@ In today's cut-throat internet algorithmic age, outrage and extremism is dominan
 
 <div class="fifty-fifty-img-right" markdown=1>
 <div markdown=1 class="fifty-fifty-img-container">
-![A magical arrangement of acorns and honeycomb.]({{site.url}}/{{site.images_path}}retrograde_fear_card.jpg)
+![A magical arrangement of acorns and honeycomb representing the collective and how we can overcome retrograde fear.]({{site.url}}/{{site.images_path}}retrograde_fear_card.jpg)
 </div>
 <div markdown=1>
 During a retrograde, there are better likelihoods of certain energies being present and certainly being present for longer. It is a good time for some meditation and introspection often enough. One can take a deeper look at that portion of a chart and its aspects. One can prepare for Mercury or Venus subject matter to come up in various ways. With an empowering framework, we can weather any storm better. We can welcome challenges that help us grow. Most of all, we refuse to add fuel to the fire of fear-based click-bait astrology and instead, choose a wiser path. 
