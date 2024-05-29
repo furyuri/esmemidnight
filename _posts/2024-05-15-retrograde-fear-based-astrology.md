@@ -12,7 +12,7 @@ description: "Fear-Based Astrology in Popular Culture Featuring Retrogrades. Art
 ![A magical arrangement of acorns and honeycomb representing the collective and how we can overcome retrograde fear.]({{site.url}}/{{site.images_path}}retrograde_fear_small.jpg){: .post-intro-img}
 </div>
 
-<em class="post-intro-text">Fear sells</em> and we live in a culture that is addicted and trained to be addicted to fear narratives over any other kind. Social media (and news) companies often push stories that have emotional morality to them. Language such as "this disgusts me, I am outraged", or "this is offensive" get targeted and pushed to the top of circulation. It is no wonder that astrology in popular culture has latched on to this trend.
+<em class="post-intro-text">Fear sells</em> and we live in a culture that is addicted <em>and trained to be addicted</em> to fear narratives over any other kind. Social media (and news) companies often push stories that have emotional morality to them. Language such as "this disgusts me, I am outraged", or "this is offensive" get targeted and pushed to the top of circulation. It is no wonder that astrology in popular culture has latched on to this trend.
 
 How many times have we seen or heard about fear surrounding a Mercury or Venus retrograde, feeling like our personal lives are basically at risk of implosion and catastrophe? 
 
