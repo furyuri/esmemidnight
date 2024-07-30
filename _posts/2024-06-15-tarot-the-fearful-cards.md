@@ -5,7 +5,7 @@ categories: blog
 thumbnail: tarot_fearful_cards_thumbnail.jpg
 thumbnail_alt: 'Tarot cards of Death, The Devil & The Tower surround a card that says "Get your ass to Mars".'
 author: 'Esme Midnight Katzen'
-permalink: /insights/tarot_the_fearful_cards/
+permalink: /insights/tarot-the-fearful-cards/
 description: "Challenger archetypes, and how to greatly reduce personal suffering. Article by Tarot Reader, Esme Katzen in Portland, Oregon."
 ---
 <div markdown=1 id="post-intro-img">
