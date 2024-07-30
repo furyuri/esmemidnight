@@ -122,7 +122,18 @@
         }
     }
 }
-
+.house-highlight {
+    background-color: lighten($brand-color, 15%);
+    border-radius: 5px;    
+    margin-top: 1rem;
+    h2 {
+        margin-top: 0 !important;
+    }
+    p {
+        margin-bottom: 0;
+    }
+    padding: 1.5em;
+}
 
 @media only screen and (min-width: 1000px) {
     .post-preview {
