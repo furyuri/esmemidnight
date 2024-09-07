@@ -296,6 +296,25 @@
       margin-top: 1rem;
     }
   }
+
+  /*--*/
+    #contact-cta-phone {
+      margin-top: 4rem !important;
+  
+      a {
+        width: 8rem;
+        margin-top: 1rem;
+      }
+  
+      h2 {
+        margin-bottom: 0
+      }
+      > p {
+        &:last-of-type {
+          margin-bottom: 0;
+        }
+      }
+    }
 }
 
 /**
@@ -498,4 +517,19 @@ nav .menu-icon {
     }    
   }
 }
- 
+
+.button {
+  background-color: $brand-color-2;
+  display: block;
+  color: black  !important;
+  border-radius: 2px;
+  font-weight: bold;
+  line-height: 1;
+  padding: .25rem 1.25rem .5rem;
+  text-decoration: none !important;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: lighten($brand-color-2, 10%);
+  }
+}  
