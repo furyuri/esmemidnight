@@ -38,5 +38,10 @@ Paid for by the host, several attendees receive an individual session of tarot o
 <h3>Deep Wisdom Tarot Sessions</h3>
 Tarot reading offered at my temple / home in SE Portland or via video call. These are conversations and divination with The Tarot. Sessions last 1-2 hours.
 </div>
+<div class="offering-card">
+<h3>Short Inquiries</h3>
+These solutions involve a brief session where we take your inquiry and consult
+3-5 cards. They last 30-45 minutes.
+</div>
 </div>
 </section>
