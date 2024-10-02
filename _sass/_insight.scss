@@ -83,14 +83,14 @@
 #post-intro-img {
     position: relative;
     margin-bottom: 45px;
-    cursor: pointer; 
+    // cursor: pointer; 
     img {
         border-radius: 5px;
         width: 100%;
-        @media only screen and (min-width: 1000px) {
-            -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-            filter: grayscale(100%);  
-        }
+        // @media only screen and (min-width: 1000px) {
+        //     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        //     filter: grayscale(100%);  
+        // }
         transition: all 1s ease-out; 
     }
     &::after {
@@ -146,7 +146,7 @@
         flex-wrap: wrap;
     }
     .post.insight {
-        padding: 6rem 4rem;
+        padding: 6rem 8rem;
         .post-header {
             display: flex;
             > div:first-of-type {

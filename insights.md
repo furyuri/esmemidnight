@@ -13,7 +13,7 @@ redirect_from:
 
 <ul class="post-list"  markdown=1>
     {%- for post in site.categories.blog -%}
-    <li class="post-preview">
+    <li class="post-preview" id="{{post.post-id}}">
     {%- if post.thumbnail -%}
         <span class="thumbnail_url hidden">{{site.url}}/{{site.images_path}}{{post.thumbnail}}</span>
         <span class="thumbnail_alt hidden">{{post.thumbnail_alt}}</span>

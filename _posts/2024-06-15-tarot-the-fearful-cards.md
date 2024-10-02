@@ -1,6 +1,7 @@
 ---
 layout: insight
 title:  "Tarot: The Fearful Cards"
+post-id: 'tarot-fearful-cards'
 categories: blog
 thumbnail: tarot_fearful_cards_thumbnail.jpg
 thumbnail_alt: 'Tarot cards of Death, The Devil & The Tower surround a card that says "Get your ass to Mars".'

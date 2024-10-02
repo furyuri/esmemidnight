@@ -1,6 +1,7 @@
 ---
 layout: insight
 title:  "Pluto in Aquarius: The World Wide Web"
+post-id: 'pluto-in-aquarius'
 categories: blog
 thumbnail: pluto_in_aquarius_thumbnail.jpg
 thumbnail_alt: 'A dreamcatcher with a spider at the center, surrounded by six feathers. A large piece of obsidian sits below.'

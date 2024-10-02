@@ -1,6 +1,7 @@
 ---
 layout: insight
 title:  "The Sun and The High Priestess"
+post-id: 'sun-and-high-priestess'
 categories: blog
 thumbnail: sun_and_priestess_tarot_cards_thumbnail.jpg
 thumbnail_alt: The Sun and High Priestess tarot cards

@@ -1,6 +1,7 @@
 ---
 layout: insight
 title:  "Retrogrades, Pop-Culture & Fear-Based Astrology"
+post-id: 'retrogrades-pop-culture-fear'
 categories: blog
 thumbnail: retrograde_fear_thumbnail.jpg
 thumbnail_alt: 'A magical arrangement of acorns and honeycomb representing the collective and how we can overcome retrograde fear.'

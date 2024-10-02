@@ -1,6 +1,7 @@
 ---
 layout: insight
 title:  "The Princess (Page) Cards in the Tarot"
+post-id: 'princess-page-cards'
 categories: blog
 thumbnail: princess_cards_thumbnail.jpg
 thumbnail_alt: The four Princess tarot cards laying on a table beneath a sacred coin.

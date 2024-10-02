@@ -1,6 +1,7 @@
 ---
 layout: insight
 title:  "The 6th House: Featuring Service"
+post-id: '6th-house-service'
 categories: blog
 thumbnail: 6th_house_featuring_service_thumbnail.jpg
 thumbnail_alt: "Two smiling women; one is pouring tea for her friend who's holding a book she's been reading."
