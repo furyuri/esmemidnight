@@ -6,7 +6,7 @@ thumbnail: 6th_house_featuring_service_thumbnail.jpg
 thumbnail_alt: "Two smiling women; one is pouring tea for her friend who's holding a book she's been reading."
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-sixth-house-featuring-service/
-description: "Description"
+description: "Sixth House Astrology & Service as an expression of love. By Tarot Reader, Esme Katzen in Portland, Oregon."
 ---
 <div markdown=1 id="post-intro-img">
 ![Two smiling women; one is pouring tea for her friend who's holding a book she's been reading.]({{site.url}}/{{site.images_path}}6th_house_featuring_service_small.jpg){: .post-intro-img}
