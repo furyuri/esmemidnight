@@ -14,10 +14,10 @@
     }
 }
 
-/** Offerings **/ 
+/** Offerings **/
 #home-offerings-section {
     position: relative;
-    background-image: url(/images/offerings_bg_mobile.jpg); 
+    background-image: url(/images/offerings_bg_mobile.jpg);
     background-attachment: fixed;
     &::before {
         content: '';
@@ -31,7 +31,7 @@
         z-index: 1;
     }
     @media only screen and (min-width: 1200px) {
-        background-image: url(/images/offerings_bg_desktop.jpg); 
+        background-image: url(/images/offerings_bg_desktop.jpg);
     }
     margin-top: 4rem;
     padding: 7rem 0 6rem;
@@ -40,9 +40,9 @@
         position: relative;
         text-align: center;
         color: $brand-color;
-        font-size: 2.5rem;     
+        font-size: 2.5rem;
         @media only screen and (min-width: 600px) {
-            font-size: 3rem;     
+            font-size: 3rem;
         }
     }
 }
@@ -69,10 +69,10 @@
 .offering-card {
     font-size: 1.2rem;
     box-sizing: border-box;
-    padding: 2rem;
+    padding: .5rem;
     @media only screen and (min-width: 1200px) {
-        padding: 3rem 2rem;
-    }    
+        padding: 1rem;
+    }
     border-radius: 5px;
     border: 1px solid gray;
     background-color: lighten($brand-color, 20%);
@@ -80,7 +80,7 @@
         @media only screen and (min-width: 1200px) {
             font-size: 1.7rem;
             margin-bottom: 1.25rem;
-        }          
+        }
         text-transform: uppercase;
         text-align: center;
         font-size: 1.4rem;
@@ -88,6 +88,14 @@
         line-height: 1;
     }
     margin-bottom: 1.5rem;
+    .offering-img {
+        border-radius: 3px;
+        margin: 0 auto;
+        display: block;
+    }
+    .offering-text {
+        padding: 2rem 1rem 1rem;
+    }
 }
 @media only screen and (min-width: 1200px) {
     #home-intro-text {
@@ -101,5 +109,5 @@
         min-height: 25rem;
         width: 31.5%;
         // margin-bottom: 0;
-    }        
+    }
 }
