@@ -31,7 +31,7 @@ You can reach me via [email](mailto:esme.midnight.tarot@gmail.com){:target="_bla
     <img src="images/astrology_pixabay_offer-card.jpg" alt="An astrology chart with the sun in the middle." class="offering-img">
     <div class="offering-text">
     <h3>Astrology Counsel</h3>
-    Based on a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, & more. At my temple / home in SE Portland or via video call. Sessions last 1-2 hours.
+    Based on a western Hellenistic tradition. Natal chart readings, progressions, progressed moon phase interpretations, transit readings, & more. Sessions last 1-2 hours.
     </div>
   </div>
   <div class="offering-card">
