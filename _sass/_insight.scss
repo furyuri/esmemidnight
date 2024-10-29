@@ -20,7 +20,7 @@
     .post-content h2 {
         margin-top: 1em;
         font-size: 2rem;
-    }    
+    }
 }
 
 .post_thumb_img {
@@ -29,8 +29,8 @@
     display: block;
     border-radius: 5px;
     @media only screen and (min-width: 1000px) {
-        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-        filter: grayscale(100%); 
+        -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(50%);
         transition: filter .4s ease;
     }
 }
@@ -47,10 +47,10 @@
     .post-meta {
         color:  white;
         font-size: 1.2rem;
-    }    
+    }
     &:hover, &.first-post-preview {
         img {
-            filter: none;   
+            filter: none;
         }
     }
 }
@@ -83,15 +83,15 @@
 #post-intro-img {
     position: relative;
     margin-bottom: 45px;
-    // cursor: pointer; 
+    // cursor: pointer;
     img {
         border-radius: 5px;
         width: 100%;
         // @media only screen and (min-width: 1000px) {
         //     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-        //     filter: grayscale(100%);  
+        //     filter: grayscale(100%);
         // }
-        transition: all 1s ease-out; 
+        transition: all 1s ease-out;
     }
     &::after {
         content: '';
@@ -124,7 +124,7 @@
 }
 .house-highlight {
     background-color: lighten($brand-color, 15%);
-    border-radius: 5px;    
+    border-radius: 5px;
     margin-top: 1rem;
     h2 {
         margin-top: 0 !important;
@@ -142,7 +142,7 @@
     }
     .post-list {
         display: flex;
-        justify-content: space-between;        
+        justify-content: space-between;
         flex-wrap: wrap;
     }
     .post.insight {
@@ -151,14 +151,14 @@
             display: flex;
             > div:first-of-type {
                 min-width: 72px !important;
-            }            
+            }
             img {
                 display: block;
                 width: 64px;
                 margin-right: .5rem;
                 border-radius: 3px;
                 opacity: .8
-            }    
+            }
         }
     }
 }
