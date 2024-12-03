@@ -58,3 +58,30 @@ You can reach me via [email](mailto:esme.midnight.tarot@gmail.com){:target="_bla
     </div>
   </div>
 </section>
+
+<section id="recent-posts-section" class="wrapper" markdown=1>
+  <h2 class="wrapper">Recent Insight Posts</h2>
+  <ul class="post-list"  markdown=1>
+      {%- for post in site.categories.blog limit:3 -%}
+      <li class="post-preview" id="{{post.post-id}}">
+      {%- if post.thumbnail -%}
+          <span class="thumbnail_url hidden">{{site.url}}/{{site.images_path}}{{post.thumbnail}}</span>
+          <span class="thumbnail_alt hidden">{{post.thumbnail_alt}}</span>
+      {%- endif -%}
+          <div class="post-preview-text">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+              </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+              <p>{{ post.excerpt | strip_html | truncate: 156 }}</p>
+          {%- endif -%}
+          </div>
+      </li>
+      {%- endfor -%}
+  </ul>
+  <a href="/insights" class="button">See All Insights</a>
+</section>
