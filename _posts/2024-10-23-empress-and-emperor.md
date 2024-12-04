@@ -17,7 +17,7 @@ description: "Article by Tarot Reader, Esme Katzen in Portland, Oregon. The zodi
 
 ## The Empress, Daughter of the Mighty Ones
 <figure class="post-inner-card">
-  <img src="/images/empress_inner_card.jpg">
+  <img src="/images/empress_inner_card.jpg" alt="The Empress tarot card.">
   <figcaption>The Empress: Ruled by Venus</figcaption>
 </figure>
 Let us start with card III, The Empress, <em>Daughter of the Mighty Ones</em>. She is the earthly form of Venus in the green living world. This is Venus expressed here in the natural world. Venus is the goddess of the fecundity of the grounds and sky united. Of the living regions of earth and the earth itself is a living conscious being. This is fertility itself. She is the patron goddess of many things such as love (and at times war), connection, art, beauty, money, pleasure, growth, and cultivation (therefore culture). In the Empress card these things are expressed physically in the world of woman and mankind.
@@ -28,7 +28,7 @@ The abyss is the great divide containing the mystery of the vast heavens of life
 
 ## Emperor, Chief Among the Mighty
 <figure class="post-inner-card">
-  <img src="/images/emperor_inner_card.jpg">
+  <img src="/images/emperor_inner_card.jpg" The Emperor tarot card.>
   <figcaption>The Emperor: Ruled by Aries <br>which is governed by Mars</figcaption>
 </figure>
 The Emperor is card IV, <em>Chief among the Mighty</em>. He is the card of Aries, the great masculine force of initiation, drive, will, force, creative spirit, leadership, disseminator of humankind's knowledge, society, culture and fatherliness. With the Empress card we had pure unfiltered direct Venusian influence. Not so with the Emperor. Mars has his intermediary of the zodiacal sign of Aries to work his magic within The Emperor. Too much direct Mars energy and we get The Tower, its associated Trump.
