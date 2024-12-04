@@ -7,7 +7,7 @@ thumbnail: empress_emperor_thumbnail.jpg
 thumbnail_alt: 'The Empress and Emperor tarot cards atop an altar of crystals, stones and other items.'
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-empress-and-the-emperor/
-description: "Article by Tarot Reader, Esme Katzen in Portland, Oregon. The zodiacal sign of Aquarius is the sign of society, culture and of the others all connected in what we refer to as the Collective. This collective is found in consciousness, the physical organized world, and in our hearts."
+description: "Article by Tarot Reader, Esme Katzen in Portland, Oregon. The Empress & Emperor, divine partners and insightful archetypes from which we can learn much."
 ---
 <div markdown=1 id="post-intro-img">
 ![The Empress and Emperor tarot cards atop an altar of crystals, stones and other items.]({{site.url}}/{{site.images_path}}empress_emperor_small.jpg){: .post-intro-img}
