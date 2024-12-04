@@ -28,7 +28,7 @@ The abyss is the great divide containing the mystery of the vast heavens of life
 
 ## Emperor, Chief Among the Mighty
 <figure class="post-inner-card">
-  <img src="/images/emperor_inner_card.jpg" The Emperor tarot card.>
+  <img src="/images/emperor_inner_card.jpg" alt="The Emperor tarot card.">
   <figcaption>The Emperor: Ruled by Aries <br>which is governed by Mars</figcaption>
 </figure>
 The Emperor is card IV, <em>Chief among the Mighty</em>. He is the card of Aries, the great masculine force of initiation, drive, will, force, creative spirit, leadership, disseminator of humankind's knowledge, society, culture and fatherliness. With the Empress card we had pure unfiltered direct Venusian influence. Not so with the Emperor. Mars has his intermediary of the zodiacal sign of Aries to work his magic within The Emperor. Too much direct Mars energy and we get The Tower, its associated Trump.
