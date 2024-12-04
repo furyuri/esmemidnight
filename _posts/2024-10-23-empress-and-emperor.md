@@ -20,7 +20,9 @@ description: "Article by Tarot Reader, Esme Katzen in Portland, Oregon. The Empr
   <img src="/images/empress_inner_card.jpg" alt="The Empress tarot card.">
   <figcaption>The Empress: Ruled by Venus</figcaption>
 </figure>
-Let us start with card III, The Empress, <em>Daughter of the Mighty Ones</em>. She is the earthly form of Venus in the green living world. This is Venus expressed here in the natural world. Venus is the goddess of the fecundity of the grounds and sky united. Of the living regions of earth and the earth itself is a living conscious being. This is fertility itself. She is the patron goddess of many things such as love (and at times war), connection, art, beauty, money, pleasure, growth, and cultivation (therefore culture). In the Empress card these things are expressed physically in the world of woman and mankind.
+Let us start with card III, The Empress, <em>Daughter of the Mighty Ones</em>. She is the earthly form of Venus in the green living world. This is Venus expressed here in the natural world. Venus is the goddess of the fecundity of the grounds and sky united. Of the living regions of earth and the earth itself is a living conscious being. This is fertility itself.
+
+She is the patron goddess of many things such as love (and at times war), connection, art, beauty, money, pleasure, growth, and cultivation (therefore culture). In the Empress card these things are expressed physically in the world of woman and mankind.
 
 She is known esoterically as the Gate of Heaven and Kabbalah with the Hebrew letter, Daleth, meaning Door. We arise in this world through the door, the portal of woman, the vesica pisces. In other words, via the womb and vagina or birth canal. She is also firstly the divine mother, residing in the supernal world beyond the abyss.
 
@@ -31,9 +33,13 @@ The abyss is the great divide containing the mystery of the vast heavens of life
   <img src="/images/emperor_inner_card.jpg" alt="The Emperor tarot card.">
   <figcaption>The Emperor: Ruled by Aries <br>which is governed by Mars</figcaption>
 </figure>
-The Emperor is card IV, <em>Chief among the Mighty</em>. He is the card of Aries, the great masculine force of initiation, drive, will, force, creative spirit, leadership, disseminator of humankind's knowledge, society, culture and fatherliness. With the Empress card we had pure unfiltered direct Venusian influence. Not so with the Emperor. Mars has his intermediary of the zodiacal sign of Aries to work his magic within The Emperor. Too much direct Mars energy and we get The Tower, its associated Trump.
+The Emperor is card IV, <em>Chief among the Mighty</em>. He is the card of Aries, the great masculine force of initiation, drive, will, force, creative spirit, leadership, disseminator of humankind's knowledge, society, culture and fatherliness.
 
-In the case of The Emperor, we need the guiding hand of Aries of the zodiac. We need a self starter, a go getter, a person with drive and craftiness. He is indeed a craftsman. He shapes the matter into other forms. He is a father you can count on to help shape yourself as well. He is a part of each of us, again regardless of our gender or body. As Venus sits upon an earthen throne, The Emperor sits in his thinking chair, a throne made by his own hands. He has to make important decisions and get down to business. We all need to embrace this practical manner to make our lives work well for the soul's journey this time around!
+With the Empress card we had pure unfiltered direct Venusian influence. Not so with the Emperor. Mars has his intermediary of the zodiacal sign of Aries to work his magic within The Emperor. Too much direct Mars energy and we get The Tower, its associated Trump.
+
+In the case of The Emperor, we need the guiding hand of Aries of the zodiac. We need a self starter, a go getter, a person with drive and craftiness. He is indeed a craftsman. He shapes the matter into other forms. He is a father you can count on to help shape yourself as well. He is a part of each of us, again regardless of our gender or body.
+
+As Venus sits upon an earthen throne, The Emperor sits in his thinking chair, a throne made by his own hands. He has to make important decisions and get down to business. We all need to embrace this practical manner to make our lives work well for the soul's journey this time around!
 
 We have culture (cultivated from Venus) and society (built with the Emperor). We inherit our lives from our ancestors and we borrow the earth from our children, so raising them with lessons and meaning is the most important job there is. Hopefully he creates with a sense of relationship and connection, the gift from his divine partner. Within this relationship he is sitting in a cauldron of benevolence. If he is out of balance, he can become a tyrant. These possibilities exist inside all of us, as we contain multitudes. So guidance that always includes ethics in all things is his gift.
 
