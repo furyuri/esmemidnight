@@ -1,6 +1,6 @@
 ---
 layout: insight
-title:  "The 6th House: Featuring Service"
+title:  "The Sixth House: Featuring Service"
 post-id: '6th-house-service'
 categories: blog
 thumbnail: 6th_house_featuring_service_thumbnail.jpg
