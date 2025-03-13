@@ -62,7 +62,7 @@ You can reach me via [email](mailto:esme.midnight.tarot@gmail.com){:target="_bla
 <section id="recent-posts-section" class="wrapper" markdown=1>
   <h2 class="wrapper">Recent Insight Posts</h2>
   <ul class="post-list"  markdown=1>
-      {%- for post in site.categories.blog limit:3 -%}
+      {%- for post in site.categories.blog limit:4 -%}
       <li class="post-preview" id="{{post.post-id}}">
       {%- if post.thumbnail -%}
           <span class="thumbnail_url hidden">{{site.url}}/{{site.images_path}}{{post.thumbnail}}</span>

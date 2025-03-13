@@ -156,8 +156,12 @@
 
 @media only screen and (min-width: 1000px) {
     .post-preview {
-        width: 48.25%;
         width: 31.5%;
+    }
+    #recent-posts-section {
+        .post-preview {
+            width: 24.25%;
+        }
     }
     .post-list {
         display: flex;

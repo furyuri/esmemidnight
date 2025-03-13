@@ -124,16 +124,26 @@
 
 #recent-posts-section {
     margin-top: 4rem;
-    padding: 4rem 0 5rem;
+    padding: 2rem 1rem;
     .button {
         width: 8rem;
         margin-top: 1rem;
     }
-        h2 {
-            text-align: center;
-            font-size: 2.5rem;
-            @media only screen and (min-width: 600px) {
-                font-size: 3rem;
-            }
+    h2 {
+        text-align: center;
+        font-size: 2.5rem;
+        @media only screen and (min-width: 600px) {
+            font-size: 3rem;
         }
+    }
+    @media only screen and (min-width: 600px) {
+        max-width: 80%;
+    }
+    @media only screen and (min-width: 1200px) {
+        max-width: 1200px;
+        padding: 4rem 0 5rem;
+    }
+    @media only screen and (min-width: 1200px) {
+        max-width: 1400px;
+    }
 }
