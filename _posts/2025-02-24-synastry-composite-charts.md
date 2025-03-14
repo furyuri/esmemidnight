@@ -13,7 +13,7 @@ description: "How synastry and composite charts help us in astrology. Article by
 ![Two hands of an interracial couple walking through a wheat field touching, with a translucent overlay of a composite natal chart.]({{site.url}}/{{site.images_path}}synastry_composite_small.jpg){: .post-intro-img}
 </div>
 
-<em class="post-intro-text">Delving into the meaning,</em> significance, fate and fortune of natal charts can be a life changing examination for, and of, an individual. One reason that systems like astrology have been tapped into (and developed), is to better understand ourselves within the much larger cosmos–a cosmos which mirrors and affects life here on earth.
+<em class="post-intro-text">Delving into the meaning,</em> significance, fate and fortune of natal charts can be a life changing examination for, and of, an individual. One reason that systems like astrology have been tapped into (and developed) is to better understand ourselves within the much larger cosmos–a cosmos which mirrors and affects life here on earth.
 
 ## Natal Charts in Astrology
 The patterns and dances of the sun, moon, planets, and other stars are a part of the fabric of life and we are here positioned in that very fabric too. Every moment contains a unique positioning of the bodies that make up our home solar system. Each of these celestial bodies has an effect in the dance and pull of the others. That *slice-of-life* moment at the event of our birth will be the most important for each of us, hence the importance placed on a natal chart. Thus, looking at two natal charts together makes a lot of sense if we already see ourselves as partners in a cosmic dance. We wish to dance well with the other humans too.
