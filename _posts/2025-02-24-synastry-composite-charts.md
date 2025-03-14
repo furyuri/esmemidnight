@@ -4,13 +4,13 @@ title:  "Synastry and Composite Charts in Astrology"
 post-id: 'synastry-and-composite-charts'
 categories: blog
 thumbnail: synastry_composite_thumbnail.jpg
-thumbnail_alt: ''
+thumbnail_alt: 'Two hands of an interracial couple walking through a wheat field touching, with a translucent overlay of a composite natal chart.'
 author: 'Esme Midnight Katzen'
 permalink: /insights/synastry-and-composite-charts-in-astrology/
 description: "How synastry and composite charts help us in astrology. Article by Esme Katzen in Portland, Oregon."
 ---
 <div markdown=1 id="post-intro-img">
-![Alt TEXT ***]({{site.url}}/{{site.images_path}}synastry_composite_small.jpg){: .post-intro-img}
+![Two hands of an interracial couple walking through a wheat field touching, with a translucent overlay of a composite natal chart.]({{site.url}}/{{site.images_path}}synastry_composite_small.jpg){: .post-intro-img}
 </div>
 
 <em class="post-intro-text">Delving into the meaning,</em> significance, fate and fortune of natal charts can be a life changing examination for, and of, an individual. One reason that systems like astrology have been tapped into (and developed), is to better understand ourselves within the much larger cosmos–a cosmos which mirrors and affects life here on earth.
@@ -35,7 +35,7 @@ The composite method calculates the midpoint between each planet/luminary of eac
 ## Using Astrology Charts to Better Understand Relationships
 <div class="fifty-fifty-img-right" markdown=1>
 <div markdown=1 class="fifty-fifty-img-container">
-![ALT TEXT ******]({{site.url}}/{{site.images_path}}synastry_composite_card.jpg)
+![A young woman resting her head on her female partner's shoulder while standing close together, barefoot on a pier.]({{site.url}}/{{site.images_path}}synastry_composite_card.jpg)
 </div>
 <div markdown=1>
 It becomes a useful experience to read the charts of two people together. We get to explore and understand what factors will be important in that relationship. We can look at this new information as a source for healing, curiosity, power dynamics, love languages, and all sorts of influences like family, ancestry, neighborhood, work, travel and learning that both people bring into the relationship.
