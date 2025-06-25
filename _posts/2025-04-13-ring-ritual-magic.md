@@ -21,6 +21,10 @@ We can encourage ourselves to adopt our own style using any creative and unique 
 Some say we are beings of ritual and ceremony, that it is an essential component of being a member of our species, special to us. Of course, other earth beings probably have their ritual too, we just might be blind to them in most cases. I know I started to thrive in a myriad of ways when I got in touch with ritual and ceremony both in groups and by myself. It really started in an important way when I engaged in <em>ancestor communication</em> on a regular basis. This is just one example of personal connection with sacred practices.
 
 ## Love as Living Ceremony
+<figure class="post-inner-card">
+  <img src="/images/ring_ritual_magic_inner_card_1.jpg" alt="Our sacred wedding on the summer solstice, with officiant Dan'el.">
+  <figcaption><a href="https://secretkeypdx.com/" target="_blank" style="color:black; text-decoration: underline;">Dan'el Nighting</a> joins Esme and Uriel <br>in sacred union.</figcaption>
+</figure>
 Later in life I found myself married to a very wonderful and beautiful man, my sweet husband. We naturally fell into small informal rituals or specific intentions with quite a few special moments. We recognized how important some of our moments were and were inspired to utter strong sentiment and vows to each other at the times when we knew we wanted to commit ourselves to each other.
 
 Or we focused our energy towards each other at pivotal moments where we felt the magic flow and coalesce to support our journey with each other. Some people may even bring more structure to such times and craft their intentions with more formal actions and processes.
