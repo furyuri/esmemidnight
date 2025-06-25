@@ -34,7 +34,7 @@ One of my favorite parts was the intentional timing. We were married on the summ
   <img src="/images/ring_ritual_magic_inner_card.jpg" alt="Two magical rings, one dark gray and gold representing Hecate the other, white and yellow gold, representing Helios.">
   <figcaption>The Rings: Helios & Hecate</figcaption>
 </figure>
-What I didn’t know was that he had also been planning a deeply romantic surprise for the winter solstice—a set of rings, intentionally crafted to represent our bond of love and life partnership. He reached out to a talented local artist, a dear friend of ours, shared his vision, and together they shaped the design. The rings were completed beautifully and right on time—handcrafted by the magical artisan who brought the rings to life.
+What I didn’t know was that he had also been planning a deeply romantic surprise for the winter solstice—a set of rings, intentionally crafted to represent our bond of love and life partnership. He reached out to [*a very talented local artist*](https://claudiostarzakjewelry.com/){:target="_blank"}, a dear friend of ours, shared his vision, and together they shaped the design. The rings were completed beautifully and right on time—handcrafted by the magical artisan who brought the rings to life.
 
 Then, he planned a big reveal at our annual winter holiday party—the same gathering where, a year earlier, the group had offered a special prayer for me to find my partner. (And just a week after that prayer, he and I began our romance!) I truly believe in the power of praying for others.
 
