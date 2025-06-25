@@ -7,7 +7,7 @@ thumbnail: ring_ritual_magic_thumbnail.jpg
 thumbnail_alt: 'Esme Midnight Katzen and her partner, Uriel during a holiday gathering. Esme smiles warmly, holding a wrapped gift.'
 author: 'Esme Midnight Katzen'
 permalink: /insights/the-power-of-ritual/
-description: "A heartfelt reflection on the power of ritual, imagination, & sacred partnership. How ceremony & intention can deepen love, purpose, & spiritual connection."
+description: "A heartfelt reflection on the power of ritual, imagination, and sacred partnership. How ceremony and intention can deepen love, purpose, and spiritual connection."
 ---
 <div markdown=1 id="post-intro-img">
 ![Esme Midnight Katzen and her partner, Uriel during a holiday gathering. Esme smiles warmly, holding a wrapped gift.]({{site.url}}/{{site.images_path}}ring_ritual_magic_small.jpg){: .post-intro-img}
